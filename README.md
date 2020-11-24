@@ -39,3 +39,7 @@ for LR in 1e-3 1.5e-3 2e-3; do
 done
 ```
 
+## Comments
+
+In my experience, training is quite unstable, and replicating the results exactly as presented in the paper has been a challenge. Still, this reimplementation was a decent learning experience.
+
