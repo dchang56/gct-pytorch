@@ -6,7 +6,7 @@ The step-by-step instructions are pretty much the same as the original repo: htt
 
 I did not implement the synthetic parts of the paper, and I've left quite a bit of alternative model architecture and training details in the code (which I think is appropriate given the engineering-heavy and experimental nature of the project).
 
-Here is an example of a bash script to run experiments. There are two possible tasks: mortality predictio and readmission prediction. Just assign either 'expired' or 'readmission' as the `LABEL_KEY`
+Here is an example of a bash script to run experiments. There are two possible tasks: mortality prediction and readmission prediction. Just assign either 'expired' or 'readmission' as the `LABEL_KEY`
 
 ```bash
 export DATA_DIR='data dir'
