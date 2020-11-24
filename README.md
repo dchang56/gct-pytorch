@@ -1,6 +1,6 @@
 # Graph Convolutional Transformer in Pytorch
 
-I've reimplemented the original tensorflow implementation of [this paper](https://arxiv.org/pdf/1906.04716.pdf) by Choi et al, following materials provided.
+I've reimplemented the original tensorflow implementation of [this paper](https://arxiv.org/pdf/1906.04716.pdf) by Choi et al, following the materials provided.
 
 The step-by-step instructions are pretty much the same as the original repo: https://github.com/Google-Health/records-research/tree/master/graph-convolutional-transformer
 
